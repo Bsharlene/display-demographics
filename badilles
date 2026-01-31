@@ -1,0 +1,21 @@
+// Online C# Editor for free
+// Write, Edit and Run your C# code using C# Online Compiler
+
+using System;
+
+public class HelloWorld
+{
+    public static void Main(string[] args)
+    {
+        Console.WriteLine ("Demographics Program by [Sharlene] \n");
+        Console.WriteLine ("Student ID       :24872806 ");
+        Console.WriteLine ("Full Name        :Sharlene Jhoy H. Badilles");
+        Console.WriteLine ("Nickname         :Sha");
+        Console.WriteLine ("Gender           :Female");
+        Console.WriteLine ("Year Level       :Second Year");
+        Console.WriteLine ("Home Location    :Salagmaya Alcantara Cebu");
+        Console.WriteLine ("Course           :Bachelor of Science in Computer Science");
+        Console.WriteLine ("Mobile Number    :09937311486");
+        Console.WriteLine ("Personal Email   :badillessharlene25@gmail.com");
+    }
+}
